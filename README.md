@@ -42,8 +42,8 @@ If everything goes fine, you should see the message in your command line:
 `ℹ ｢wdm｣: Compiled successfully.`
 
 Now open your prowser and type `http://localhost:8080`. 
-The port number (8080) may be different; look for the port number in the terminal output after step 5 (when the server is just started). It should say something like:
+The port number (8080) may be different; look for the port number in the terminal output after step 5 (when the server is starting). It should say something like:
 
 `ℹ ｢wds｣: Project is running at http://localhost:8080/`
 
-If everything worked well, you will see 'Hellow World!' message.
+If everything worked well, you will see 'Hello World!' message.
