@@ -1,4 +1,4 @@
-# Blank Node/Webpack setup for trailing
+# Blank Node/Webpack setup for training
 
 ## Requirements
 
