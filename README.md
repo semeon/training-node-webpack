@@ -3,18 +3,25 @@
 ## Requirements
 
 * Node.js
-* Git
+* Git CLI or GitHub Destop
 
 ## Getting started
 
 1. In your terminal, navigate to you development folder.
 
-2. Clone this repo to the selected folder:
+2. Clone this repo to the selected folder. 
+
+If you use command line (CLI) type:
 
 `git clone https://github.com/semeon/training-node-webpack.git`
 
+If you use GitHub Desktop, click:
 
-3. Get into the newly created folder:
+* Add > Clone Repository > URL
+* Enter the URL: `https://github.com/semeon/training-node-webpack.git` and choose where to install the repo.
+
+
+3. In the terminal, get into the newly created folder:
 
 `cd training-node-webpack`
 
